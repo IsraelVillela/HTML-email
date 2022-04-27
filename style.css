@@ -1,0 +1,21 @@
+.name{
+  display:flex;
+  flex-direction:column;
+}
+.email{
+  padding-top:2%;
+  display:flex;
+  flex-direction:column;
+}
+.message{
+  padding-top:2%;
+  display:flex;
+  flex-direction:column
+}
+textarea{
+    height:250px;
+
+}
+.button{
+  padding-top:2%;
+}
